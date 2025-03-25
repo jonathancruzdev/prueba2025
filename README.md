@@ -7,3 +7,8 @@
 - git config --global user.email jonathan.cruz@davinci.edu.ar
 ```
 
+## Para subir archivos
+``` bash
+- git add .
+- git commit -m "Nuevo Repositorio"
+```
